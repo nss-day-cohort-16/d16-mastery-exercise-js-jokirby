@@ -1,0 +1,28 @@
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 5%;
+}
+
+form {
+	text-align: center;
+	margin-top: 1%;
+}
+
+#buttonFun {
+	text-align: center;
+}
+
+#treeDisplay {
+	text-align: center;
+	color: green;
+}
+
+#tree-image {
+	text-align: center;
+	font-size: 3em;
+	margin: 0;
+}
